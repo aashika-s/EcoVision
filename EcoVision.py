@@ -11,7 +11,7 @@ import rasterio
 from datetime import datetime, timedelta
 import cv2 # OpenCV for contour detection
 import pandas as pd # For CSV logging
-
+#no sms 
 # For Email alerts
 import smtplib
 from email.mime.text import MIMEText
